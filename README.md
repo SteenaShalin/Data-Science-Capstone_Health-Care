@@ -87,3 +87,4 @@ Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different var
 
 
 Download the data sets from here.
+https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects
