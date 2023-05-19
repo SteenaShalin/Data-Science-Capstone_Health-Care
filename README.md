@@ -11,7 +11,6 @@ Dataset Description
 
 The datasets consists of several medical predictor variables and one target variable (Outcome). Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
- 
 
 Variables	Description
 Pregnancies	Number of times pregnant
@@ -88,3 +87,7 @@ Create bins of these age values: 20-25, 25-30, 30-35, etc. Analyze different var
 
 Download the data sets from here.
 https://github.com/Simplilearn-Edu/Data-Science-Capstone-Projects
+
+![Data Science_Healthcare Capstone Project_Tableau](https://github.com/SteenaShalin/Data-Science-Capstone_Health-Care/assets/114017510/376a16dd-f131-4443-b629-3b6ae4b3abe1)
+
+
